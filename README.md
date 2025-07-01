@@ -31,4 +31,4 @@ This website acts as my personal digital business card and portfolio. It include
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Gianni16/portfolio-website.git
+   git clone https://github.com/Gianni16/webpage.git
