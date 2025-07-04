@@ -17,6 +17,7 @@ A clean and responsive **personal portfolio website** built using only **HTML5**
 This website acts as my personal digital business card and portfolio. It includes links to my:
 - GitHub profile
 - LinkedIn profile
+- Start2impact profile
 
 ## 💡 Features
 
