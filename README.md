@@ -13,7 +13,6 @@ This is a simple and responsive **personal portfolio website** developed using *
 This website acts as my personal digital business card and portfolio. It includes links to my:
 - GitHub profile
 - LinkedIn profile
-- Start2Impact profile
 
 ## 💡 Features
 
