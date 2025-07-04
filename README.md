@@ -1,6 +1,10 @@
 # 🌍 Gianluca Garzone - Portfolio Website
 
-This is a simple and responsive **personal portfolio website** developed using **HTML5** and **CSS3**, showcasing who I am and where to find me online.
+A clean and responsive **personal portfolio website** built using only **HTML5** and **CSS3**, designed to present who I am and where to find me online.
+
+## 🚀 Demo
+
+📎 [Live Website](https://gianni16.github.io/webpage) &nbsp; _(hosted with GitHub Pages)_
 
 ## 🧰 Technologies Used
 
